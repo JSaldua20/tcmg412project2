@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
+<html>
+<head>
+<title>Group 2:TCMG 412</title>
 
-You can use the [editor on GitHub](https://github.com/JSaldua20/tcmg412project2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<h1><marquee>Howdy!</marquee></h1>
+<h2 align="center">Group 2 Project 2</h2>
+<h3 align="center">By: Julia Raburn, Joshua Saldua, Jonathan Illori, Tanner Sheldon</h3>
+<h4 align="center">
+ 
+<hr align="center">
+<center><table><tr><td > <b>Home</b>  <a href= "goldenretriever.html"> [ Golden Retrievers ] </a>  <a href= "reveille.html"> [ Reveille ]  </a></td> </tr></table></center>
+<hr align="center">
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<span id='ct' ></span>
+</h4>
+<hr align="center">
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JSaldua20/tcmg412project2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>	Howdy, we created this webpage for our second project focusing on using GitHub Pages. With this project we focused on the collaboration through GitHub and using Push/Pull requests in order to each contribute to this project.</p>
+<img src="devops.jpg">
+<hr align="center">
