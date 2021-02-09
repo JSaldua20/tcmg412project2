@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<html>
+<head>
+<title>Group 2:TCMG 412</title>
+</head>
+
+<h1><marquee>Howdy!</marquee></h1>
+<h2 align="center">Tanner's page</h2>
+<h3 align="center">By: Julia Raburn, Joshua Saldua, Jonathan Illori, Tanner Sheldon</h3>
+<h4 align="center">
+
+<hr align="center">
+<center><table><tr><td> <a href= "placeholder.html"> [ Someone else's page ] </a> <b>Tanner's page</b> <a href= "placeholder.html"> [ Someone else's page ]  </a> <a href= "placeholder.html"> [ Someone else's page ] </a></td> </tr></table></center>
+<hr align="center">
+
+<p>
+Placeholder paragraph
+</p>
+<img src="placeholderimage.jpg">
+<hr align="center">
+</html>
